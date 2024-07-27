@@ -47,8 +47,7 @@ I am a Full Stack Developer with extensive experience in developing both website
 <div align="center">
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peerapatsiriai&layout=compact&theme=vision-friendly-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peerapatsiriai&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peerapatsiriai&layout=compact&theme=vision-friendly-dark)<br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=peerapatsiriai&theme=dark)<br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peerapatsiriai&show_icons=true&theme=radical)
 </div>
