@@ -24,9 +24,9 @@
 <div id="header" align="center">
 <h1>😤 : About Me :</h1>
 </div>
-I am a Full Stack Developer with extensive experience in developing both websites and applications. My skill set spans across Frontend, Backend, and DevOps, enabling me to build comprehensive and efficient solutions. I have a strong foundation in modern web technologies and frameworks, and I am adept at managing end-to-end project development.
----
+<p>I am a Full Stack Developer with extensive experience in developing both websites and applications. My skill set spans across Frontend, Backend, and DevOps, enabling me to build comprehensive and efficient solutions. I have a strong foundation in modern web technologies and frameworks, and I am adept at managing end-to-end project development.</p>
 
+---
 
 ### 🛠️ Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,angular,nest,tailwind,aws,flutter,postgres,mongodb,mysql,redis,sqlite,nodejs,prisma,sequelize,laravel,github,git,bitbucket,gitlab,bootstrap,cs,py,django,docker,eclipse,java,express,fastapi,flask,jest,jquery,linux,ubuntu,nginx,html,css,js&perline=20)](https://skillicons.dev)
