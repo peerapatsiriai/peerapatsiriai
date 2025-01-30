@@ -29,7 +29,7 @@
 ---
 
 ### 🛠️ Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,angular,nest,tailwind,aws,flutter,postgres,mongodb,mysql,redis,sqlite,nodejs,prisma,sequelize,laravel,github,git,bitbucket,gitlab,bootstrap,cs,py,django,docker,eclipse,java,express,fastapi,flask,jest,jquery,linux,ubuntu,nginx,html,css,js&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,angular,nest,tailwind,aws,flutter,postgres,mongodb,mysql,redis,sqlite,nodejs,prisma,sequelize,laravel,github,git,bitbucket,gitlab,py,django,docker,express,fastapi,flask,jest,linux,ubuntu,nginx,js&perline=20)](https://skillicons.dev)
 ---
 
 ### 🎨 Design and Tools :
